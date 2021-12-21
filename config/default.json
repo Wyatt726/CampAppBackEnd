@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://wyatt726:Number11@camp.qkzxr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "JWT_SECRET": "A SECRET STRING. NEEDS TO BE AT LEAST 32 CHARACTERS"
+}
